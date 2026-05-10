@@ -132,6 +132,7 @@ Displays:
 - High price
 - Low price
 - Volume
+<img width="1907" height="707" alt="Screenshot 2026-05-10 142755" src="https://github.com/user-attachments/assets/4e1d6111-ab6b-407a-b7ba-e1c2b26118a2" />
 
 ---
 
@@ -144,6 +145,7 @@ Calculates:
 Used for:
 - trend identification
 - market direction analysis
+<img width="1500" height="867" alt="Screenshot 2026-05-10 142808" src="https://github.com/user-attachments/assets/1052eed1-51cc-4e26-a66b-810966b0c7a2" />
 
 ---
 
@@ -155,8 +157,14 @@ Shows:
 Used for:
 - performance tracking
 - profit/loss estimation
+<img width="1458" height="812" alt="Screenshot 2026-05-10 142824" src="https://github.com/user-attachments/assets/af112877-102d-4874-9da5-bb13be308ccd" />
 
 ---
+##📊 Trading Volume Analysis
+<img width="1481" height="806" alt="Screenshot 2026-05-10 142851" src="https://github.com/user-attachments/assets/5a97206a-bfeb-4161-84b7-e744e2951f4a" />
+
+##📈 Cumulative Returns
+<img width="1431" height="782" alt="Screenshot 2026-05-10 142907" src="https://github.com/user-attachments/assets/bbd027b8-d11b-449f-bc6d-7799d3a42885" />
 
 ## 4️⃣ Rolling Volatility
 
@@ -167,14 +175,19 @@ Measures:
 Used in:
 - risk management
 - investment analysis
+<img width="1462" height="778" alt="Screenshot 2026-05-10 142919" src="https://github.com/user-attachments/assets/a41cff07-6545-4ec0-8b8b-4b23f5e3a385" />
 
 ---
+
+##📊 Daily Returns Distribution
+<img width="1467" height="812" alt="Screenshot 2026-05-10 142933" src="https://github.com/user-attachments/assets/5d22f770-36bc-4b39-8d73-644021e37dc4" />
 
 ## 5️⃣ RSI Indicator
 
 Relative Strength Index helps identify:
 - overbought conditions
 - oversold conditions
+<img width="1441" height="782" alt="Screenshot 2026-05-10 142947" src="https://github.com/user-attachments/assets/53eaef16-d8ba-4ad2-a10e-1bf522f62c60" />
 
 ---
 
@@ -184,6 +197,7 @@ Used for:
 - trend analysis
 - volatility analysis
 - breakout identification
+<img width="1403" height="775" alt="Screenshot 2026-05-10 143005" src="https://github.com/user-attachments/assets/520a01b1-2e60-45cc-b607-819997672957" />
 
 ---
 
@@ -192,6 +206,7 @@ Used for:
 Visualizes:
 - trading activity
 - market participation
+<img width="1487" height="862" alt="Screenshot 2026-05-10 143028" src="https://github.com/user-attachments/assets/59214764-d232-4648-8673-ffb963da097c" />
 
 ---
 
