@@ -160,10 +160,10 @@ Used for:
 <img width="1458" height="812" alt="Screenshot 2026-05-10 142824" src="https://github.com/user-attachments/assets/af112877-102d-4874-9da5-bb13be308ccd" />
 
 ---
-##📊 Trading Volume Analysis
+## 4️⃣ Trading Volume Analysis
 <img width="1481" height="806" alt="Screenshot 2026-05-10 142851" src="https://github.com/user-attachments/assets/5a97206a-bfeb-4161-84b7-e744e2951f4a" />
 
-##📈 Cumulative Returns
+## 5️⃣ Cumulative Returns
 <img width="1431" height="782" alt="Screenshot 2026-05-10 142907" src="https://github.com/user-attachments/assets/bbd027b8-d11b-449f-bc6d-7799d3a42885" />
 
 ## 4️⃣ Rolling Volatility
