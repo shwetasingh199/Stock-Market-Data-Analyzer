@@ -166,7 +166,7 @@ Used for:
 ## 5️⃣ Cumulative Returns
 <img width="1431" height="782" alt="Screenshot 2026-05-10 142907" src="https://github.com/user-attachments/assets/bbd027b8-d11b-449f-bc6d-7799d3a42885" />
 
-## 4️⃣ Rolling Volatility
+## 6️⃣ Rolling Volatility
 
 Measures:
 - market risk
@@ -179,10 +179,10 @@ Used in:
 
 ---
 
-##📊 Daily Returns Distribution
+## 7️⃣ Daily Returns Distribution
 <img width="1467" height="812" alt="Screenshot 2026-05-10 142933" src="https://github.com/user-attachments/assets/5d22f770-36bc-4b39-8d73-644021e37dc4" />
 
-## 5️⃣ RSI Indicator
+## 8️⃣ RSI Indicator
 
 Relative Strength Index helps identify:
 - overbought conditions
@@ -191,7 +191,7 @@ Relative Strength Index helps identify:
 
 ---
 
-## 6️⃣ Bollinger Bands
+## 9️⃣ Bollinger Bands
 
 Used for:
 - trend analysis
@@ -201,7 +201,7 @@ Used for:
 
 ---
 
-## 7️⃣ Volume Analysis
+## 🔟 Volume Analysis
 
 Visualizes:
 - trading activity
@@ -269,66 +269,6 @@ matplotlib
 | TCS | TCS.NS |
 
 ---
-
-# 📸 Screenshots
-
-## 📌 Dataset Preview
-
-```markdown
-<img width="1907" height="707" alt="Screenshot 2026-05-10 142755" src="https://github.com/user-attachments/assets/c4c44324-31b2-400d-8bfd-cb372bffa169" />
-
-```
-
----
-
-## 📌 Moving Average Analysis
-
-```markdown
-![Moving Average](images/moving_average.png)
-```
-
----
-
-## 📌 Daily Returns Analysis
-
-```markdown
-![Daily Returns](images/daily_returns.png)
-```
-
----
-
-## 📌 RSI Indicator
-
-```markdown
-![RSI](images/rsi.png)
-```
-
----
-
-## 📌 Bollinger Bands
-
-```markdown
-![Bollinger Bands](images/bollinger_bands.png)
-```
-
----
-
-## 📌 Volume Analysis
-
-```markdown
-![Volume Analysis](images/volume_analysis.png)
-```
-
----
-
-## 📌 Volatility Analysis
-
-```markdown
-![Volatility](images/volatility.png)
-```
-
----
-
 # 📊 Output
 
 The system generates:
